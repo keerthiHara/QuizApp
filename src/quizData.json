@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "question": "Which of the following is correct about JavaScript?",
+      "options": [
+        " JavaScript is a lightweight, interpreted programming language.",
+        " JavaScript has object-oriented capabilities that allows you to build interactivity into otherwise static HTML pages.",
+        "The general-purpose core of the language has been embedded in Netscape, Internet Explorer, and other web browsers.",
+        "All of the above."
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "Which of the following type of variable is visible everywhere in your JavaScript code?",
+      "options": [
+        " global variable",
+        "local variable",
+        "Both of the above.",
+        " None of the above."
+      ],
+      "answer": 0
+    },
+    {
+      "id": 3,
+      "question": "Which built-in method returns the characters in a string beginning at the specified location?",
+      "options": ["substr() ",
+      "getSubstring() ",
+      "slice()",
+      "None of the above."],
+      "answer": 0
+    },
+    {
+      "id": 4,
+      "question": "Which built-in method returns the index within the calling String object of the first occurrence of the specified value?",
+      "options": [
+        " getIndex()",
+        " location()",
+        "indexOf()",
+        "None of the above."
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Which of the following function of Boolean object returns a string of either 'true' or 'false' depending upon the value of the object?",
+      "options": ["toSource()","valueOf() ","toString()","None of the above."],
+      "answer": 2
+    },
+    {
+      "id":6,
+      "question": " Which of the following function of String object returns the index within the calling String object of the first occurrence of the specified value?",
+      "options": ["substr() "," search()","lastIndexOf()","indexOf()"],
+      "answer": 3
+    },
+
+    {
+      "id":7,
+      "question": "Which of the following function of String object returns the primitive value of the specified object?.",
+      "options": ["toLocaleUpperCase() ","toUpperCase() ","toString()","valueOf()"],
+      "answer":3
+    },
+
+    {
+      "id":8,
+      "question": "Which of the following function of String object causes a string to be displayed in the specified size as if it were in a <font size = 'size'> tag??",
+      "options": ["fixed() "," fontcolor() ","fontsize()","bold()"],
+      "answer": 2
+    },
+
+    { "id":9,
+      "question": "Which of the following function of Array object returns the first (least) index of an element within the array equal to the specified value, or -1 if none is found?",
+      "options": ["indexOf() ","join() ","lastIndexOf()","map()"],
+      "answer": 0
+    },
+
+    { "id":10,
+      "question": "Which of the following function of Array object removes the first element from an array and returns that element?",
+      "options": ["reverse()","shift()","slice()","some()"],
+      "answer":1
+    }
+
+  ]

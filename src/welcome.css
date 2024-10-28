@@ -1,0 +1,18 @@
+body{
+    background-color: white;
+}
+
+.but{
+    display: flex;
+    justify-content: center;
+}
+
+.but button{
+    border-color: black;
+    box-shadow: 0px 0px 15px 3px #08429891;
+    height: 55px;
+    width: 100px;
+    border-radius: 30px;
+    background-color: rgba(0, 145, 249, 0.812);
+
+}
